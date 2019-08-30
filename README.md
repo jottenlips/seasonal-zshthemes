@@ -5,7 +5,7 @@
 
 >- Run
 
-`cd zshthemes` 
+`cd seasonal-zshthemes` 
 
 *Fall:*
 
