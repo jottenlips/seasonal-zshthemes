@@ -25,3 +25,6 @@ $ cp seashell.zsh-theme /Users/$(whoami)/.oh-my-zsh/themes/
 ![Screen Shot](screenshot.png?raw=true "Summer Screen Shot")
 > Add `ZSH_THEME="seashell"` to your zshrc.
 
+*More:*
+
+For more themes and plugins check out https://github.com/unixorn/awesome-zsh-plugins.
