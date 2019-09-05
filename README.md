@@ -10,7 +10,7 @@
 *Fall:*
 
 ```console
-$ cp fall.zsh-theme /Users/$(whoami)/.oh-my-zsh/themes/`
+$ cp fall.zsh-theme ~/.oh-my-zsh/themes/
 ```
 
 ![Screen Shot](fallscreenshot.png?raw=true "Fall Screen Shot")
@@ -19,7 +19,7 @@ $ cp fall.zsh-theme /Users/$(whoami)/.oh-my-zsh/themes/`
 *Summer:*
 
 ```console
-$ cp seashell.zsh-theme /Users/$(whoami)/.oh-my-zsh/themes/
+$ cp seashell.zsh-theme ~/.oh-my-zsh/themes/
 ```
 
 ![Screen Shot](screenshot.png?raw=true "Summer Screen Shot")
