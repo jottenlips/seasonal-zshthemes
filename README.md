@@ -2,6 +2,8 @@
 
 seasonal zsh prompts with git status
 
+>- Get ZSH https://github.com/robbyrussell/oh-my-zsh
+
 >- Clone me
 
 >- Run
