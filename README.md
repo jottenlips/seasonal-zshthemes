@@ -10,6 +10,15 @@ seasonal zsh prompts with git status
 
 `cd seasonal-zshthemes` 
 
+*Winter:*
+
+```console
+$ cp winter.zsh-theme ~/.oh-my-zsh/themes/
+```
+
+![Screen Shot](winter.png?raw=true "Winter Screen Shot")
+> Add `ZSH_THEME="winter"` to your zshrc.
+
 *Halloween:*
 
 ```console
@@ -27,15 +36,6 @@ $ cp fall.zsh-theme ~/.oh-my-zsh/themes/
 
 ![Screen Shot](fallscreenshot.png?raw=true "Fall Screen Shot")
 > Add `ZSH_THEME="fall"` to your zshrc.
-
-
-*Winter:*
-
-```console
-$ cp winter.zsh-theme ~/.oh-my-zsh/themes/
-```
-
-> Add `ZSH_THEME="winter"` to your zshrc.
 
 
 *Summer:*
