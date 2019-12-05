@@ -10,6 +10,17 @@ seasonal zsh prompts with git status
 
 `cd seasonal-zshthemes` 
 
+
+*Holiday:*
+
+```console
+$ cp holiday.zsh-theme ~/.oh-my-zsh/themes/
+```
+
+![Screen Shot](holiday.png?raw=true "Holiday Screen Shot")
+> Add `ZSH_THEME="holiday"` to your zshrc.
+
+
 *Winter:*
 
 ```console
