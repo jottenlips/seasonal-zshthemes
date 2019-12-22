@@ -35,6 +35,17 @@ ZSH_THEME=$(sh ~/seasonal-zshthemes/get_theme_season.sh)
 
 ## Themes
 
+*Spring:*
+
+```console
+$ cp spring.zsh-theme ~/.oh-my-zsh/themes/
+```
+
+![Screen Shot](spring.png?raw=true "Spring Screen Shot")
+> Add `ZSH_THEME="spring"` to your zshrc.
+
+
+
 *Holiday:*
 
 ```console
