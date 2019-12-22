@@ -12,10 +12,6 @@ seasonal zsh prompts with git status
 
 ## Automatically set the theme for the season you are experiencing. 
 
-```console
-$ vim ~/.zshrc
-```
-
 Copy all seasonal themes. 
 
 ```console
@@ -28,6 +24,10 @@ cp seashell.zsh-theme ~/.oh-my-zsh/themes/
 ```
 
 Then set your zsh theme to the get theme for season shell script.
+
+```console
+$ vim ~/.zshrc
+```
 
 ```
 ZSH_THEME=$(sh ~/seasonal-zshthemes/get_theme_season.sh)
