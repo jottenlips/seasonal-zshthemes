@@ -28,7 +28,7 @@ case $month in
     echo "fall"
     ;;
 "10")
-    echo "fall"
+    echo "halloween"
     ;;
 "11")
     echo "fall"
