@@ -1,30 +1,30 @@
 month=$(date +"%m")
 case $month in
-"1")
+"01")
     echo "winter"
     ;;
-"2")
+"02")
     echo "winter"
     ;;
-"3")
+"03")
     echo "spring"
     ;;
-"4")
+"04")
     echo "spring"
     ;;
-"5")
+"05")
     echo "spring"
     ;;
-"6")
+"06")
     echo "seashell"
     ;;
-"7")
+"07")
     echo "seashell"
     ;;
-"8")
+"08")
     echo "seashell"
     ;;
-"9")
+"09")
     echo "fall"
     ;;
 "10")
