@@ -7,7 +7,7 @@ case $month in
     echo "winter"
     ;;
 "03")
-    echo "spring"
+    echo "winter"
     ;;
 "04")
     echo "spring"
