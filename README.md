@@ -8,19 +8,17 @@ seasonal zsh prompts with git status
 
 >- Run
 
-`cd seasonal-zshthemes` 
+```console
+cd seasonal-zshthemes
+sh add_themes.sh
+``` 
 
 ## Automatically set the theme for the season you are experiencing. 
 
 Copy all seasonal themes. 
 
 ```console
-cp holiday.zsh-theme ~/.oh-my-zsh/themes/
-cp halloween.zsh-theme ~/.oh-my-zsh/themes/
-cp winter.zsh-theme ~/.oh-my-zsh/themes/
-cp fall.zsh-theme ~/.oh-my-zsh/themes/
-cp spring.zsh-theme ~/.oh-my-zsh/themes/
-cp seashell.zsh-theme ~/.oh-my-zsh/themes/
+ZSH_THEME=$(sh ~/seasonal-zshthemes/get_theme_season.sh)
 ```
 
 Then set your zsh theme to the get theme for season shell script.

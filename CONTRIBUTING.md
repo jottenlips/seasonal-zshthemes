@@ -4,6 +4,8 @@
 
 * Update the read me with your theme.
 
+* Add your theme to add_themes.sh
+
 ex:
 
 *ThemeName:*
