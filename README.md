@@ -15,8 +15,6 @@ sh add_themes.sh
 
 ## Automatically set the theme for the season you are experiencing. 
 
-Copy all seasonal themes. 
-
 ```console
 ZSH_THEME=$(sh ~/seasonal-zshthemes/get_theme_season.sh)
 ```
