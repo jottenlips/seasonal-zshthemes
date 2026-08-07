@@ -1,6 +1,6 @@
 source "${0:h}/lib.zsh"
 
-local ret_status="%(?:%{$fg_bold[green]%}🇺🇸 :%{$fg_bold[red]%}🎆 %s)"
+local ret_status="%(?:%{$fg_bold[green]%}🦅 :%{$fg_bold[red]%}🎆 %s)"
 
 function get_pwd(){
   git_root=$PWD

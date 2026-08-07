@@ -77,13 +77,13 @@ so copying from the terminal stays clean.
 | presidents  | 3rd Mon of Feb      | 🎩 | 🦅 | ⚖️ | 🏛️ |
 | stpatrick   | Mar 17              | ☘️ | 🍀 | 🇮🇪 | 🍺 |
 | easter      | Easter Sunday       | 🐣 | 🥚 | 🐰 | 🧺 |
-| memorial    | Last Mon of May     | 🕊️ | 🎖️ | 🕊️ | 🇺🇸 |
+| memorial    | Last Mon of May     | 🕊️ | 🎖️ | 🕊️ | 🦅 |
 | juneteenth  | Jun 19              | ✊🏾 | 🔥 | 🕊️ | 🖤 |
-| independence| Jul 4               | 🇺🇸 | 🎆 | 🎇 | 🧨 |
+| independence| Jul 4               | 🦅 | 🎆 | 🎇 | 🧨 |
 | labor       | 1st Mon of Sep      | 🛠️ | ⚙️ | 🏗️ | 🔧 |
 | columbus    | 2nd Mon of Oct      | 🧭 | ⛵ | 🌎 | 🗺️ |
 | halloween   | Oct 31              | 💀 | 👻 | 🌕 | 🕸️ |
-| veterans    | Nov 11              | 🎖️ | 🫡 | 🇺🇸 | 🎗️ |
+| veterans    | Nov 11              | 🎖️ | 🫡 | 🦅 | 🎗️ |
 | thanksgiving| 4th Thu of Nov      | 🦃 | 🍗 | 🍁 | 🥧 |
 | holiday     | Dec 24 & 25         | 🎅 | 🎁 | 🎄 | 🛷 |
 
