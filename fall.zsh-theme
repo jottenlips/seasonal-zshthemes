@@ -1,3 +1,5 @@
+source "${0:h}/lib.zsh"
+
 local ret_status="%(?:%{$fg_bold[green]%}🍁 :%{$fg_bold[red]%}🎃 %s)"
 
 function get_pwd(){
@@ -14,7 +16,6 @@ function get_pwd(){
   fi
   echo $prompt_short_dir
 }
-RPROMPT='🏕'
 
 PROMPT='$ret_status %{$fg[white]%}$(get_pwd) $(git_prompt_info)%{$reset_color%}%{$reset_color%} '
 
