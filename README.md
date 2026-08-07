@@ -95,16 +95,6 @@ $ cp summer.zsh-theme ~/.oh-my-zsh/themes/
 
 > Add `ZSH_THEME="summer"` to your zshrc.
 
-## Screenshots
-
-| Theme | Screenshot |
-| ----- | ---------- |
-| holiday | ![Holiday](holiday.png?raw=true "Holiday Screen Shot") |
-| halloween | ![Halloween](halloween.png?raw=true "Halloween Screen Shot") |
-| fall | ![Fall](fallscreenshot.png?raw=true "Fall Screen Shot") |
-| summer | ![Summer](screenshot.png?raw=true "Summer Screen Shot") |
-| spring | ![Spring](spring.png?raw=true "Spring Screen Shot") |
-
 ## Testing the date script
 
 ```console

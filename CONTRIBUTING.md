@@ -1,6 +1,6 @@
 # Contributing
 
-* Add your theme and screenshot to the repo. 
+* Add your theme to the repo. 
 
 * Update the read me with your theme.
 
@@ -19,7 +19,6 @@ ex:
 $ cp theme-name.zsh-theme ~/.oh-my-zsh/themes/
 ```
 
-![Screen Shot](theme-name.png?raw=true "ThemeName Screen Shot")
 > Add `ZSH_THEME="theme-name"` to your zshrc.
 
 To add a holiday, wire it into `get_theme_season.sh` so the theme auto-applies on its date.
